@@ -9,4 +9,4 @@ Once that was complete - it took 3 or 4 minutes to complete, I did:
 Then I connected to http://localhost:8080/
 
 Here is the screenshot:
-![Robot Shop Homepage Screenshot](/assets/images/screenshot.png)
+![Robot Shop Homepage Screenshot](/robot-shop-screenshot.png)
